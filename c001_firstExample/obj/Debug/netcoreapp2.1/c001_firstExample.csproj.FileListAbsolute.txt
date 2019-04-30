@@ -1,0 +1,11 @@
+C:\c#\sandkasten\LinqTutorial\c001_firstExample\bin\Debug\netcoreapp2.1\c001_firstExample.deps.json
+C:\c#\sandkasten\LinqTutorial\c001_firstExample\bin\Debug\netcoreapp2.1\c001_firstExample.runtimeconfig.json
+C:\c#\sandkasten\LinqTutorial\c001_firstExample\bin\Debug\netcoreapp2.1\c001_firstExample.runtimeconfig.dev.json
+C:\c#\sandkasten\LinqTutorial\c001_firstExample\bin\Debug\netcoreapp2.1\c001_firstExample.dll
+C:\c#\sandkasten\LinqTutorial\c001_firstExample\bin\Debug\netcoreapp2.1\c001_firstExample.pdb
+C:\c#\sandkasten\LinqTutorial\c001_firstExample\obj\Debug\netcoreapp2.1\c001_firstExample.csprojAssemblyReference.cache
+C:\c#\sandkasten\LinqTutorial\c001_firstExample\obj\Debug\netcoreapp2.1\c001_firstExample.csproj.CoreCompileInputs.cache
+C:\c#\sandkasten\LinqTutorial\c001_firstExample\obj\Debug\netcoreapp2.1\c001_firstExample.AssemblyInfoInputs.cache
+C:\c#\sandkasten\LinqTutorial\c001_firstExample\obj\Debug\netcoreapp2.1\c001_firstExample.AssemblyInfo.cs
+C:\c#\sandkasten\LinqTutorial\c001_firstExample\obj\Debug\netcoreapp2.1\c001_firstExample.dll
+C:\c#\sandkasten\LinqTutorial\c001_firstExample\obj\Debug\netcoreapp2.1\c001_firstExample.pdb

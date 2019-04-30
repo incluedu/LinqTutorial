@@ -1,0 +1,11 @@
+C:\c#\sandkasten\LinqTutorial\c002_loopFindExample\bin\Debug\netcoreapp2.1\c002_loopFindExample.deps.json
+C:\c#\sandkasten\LinqTutorial\c002_loopFindExample\bin\Debug\netcoreapp2.1\c002_loopFindExample.runtimeconfig.json
+C:\c#\sandkasten\LinqTutorial\c002_loopFindExample\bin\Debug\netcoreapp2.1\c002_loopFindExample.runtimeconfig.dev.json
+C:\c#\sandkasten\LinqTutorial\c002_loopFindExample\bin\Debug\netcoreapp2.1\c002_loopFindExample.dll
+C:\c#\sandkasten\LinqTutorial\c002_loopFindExample\bin\Debug\netcoreapp2.1\c002_loopFindExample.pdb
+C:\c#\sandkasten\LinqTutorial\c002_loopFindExample\obj\Debug\netcoreapp2.1\c002_loopFindExample.csprojAssemblyReference.cache
+C:\c#\sandkasten\LinqTutorial\c002_loopFindExample\obj\Debug\netcoreapp2.1\c002_loopFindExample.csproj.CoreCompileInputs.cache
+C:\c#\sandkasten\LinqTutorial\c002_loopFindExample\obj\Debug\netcoreapp2.1\c002_loopFindExample.AssemblyInfoInputs.cache
+C:\c#\sandkasten\LinqTutorial\c002_loopFindExample\obj\Debug\netcoreapp2.1\c002_loopFindExample.AssemblyInfo.cs
+C:\c#\sandkasten\LinqTutorial\c002_loopFindExample\obj\Debug\netcoreapp2.1\c002_loopFindExample.dll
+C:\c#\sandkasten\LinqTutorial\c002_loopFindExample\obj\Debug\netcoreapp2.1\c002_loopFindExample.pdb

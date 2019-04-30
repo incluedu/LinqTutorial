@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\c#\\sandkasten\\LinqTutorial\\c003_LinqExample\\c003_LinqExample.csproj",
+    "projectName": "c003_LinqExample",
+    "projectPath": "C:\\c#\\sandkasten\\LinqTutorial\\c003_LinqExample\\c003_LinqExample.csproj",
+    "outputPath": "C:\\c#\\sandkasten\\LinqTutorial\\c003_LinqExample\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "C:\\c#\\sandkasten\\LinqTutorial\\c002_loopFindExample\\c002_loopFindExample.csproj": {
+            "projectPath": "C:\\c#\\sandkasten\\LinqTutorial\\c002_loopFindExample\\c002_loopFindExample.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

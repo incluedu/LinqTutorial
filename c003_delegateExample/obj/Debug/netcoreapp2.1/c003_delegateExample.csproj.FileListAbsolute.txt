@@ -1,0 +1,14 @@
+C:\c#\sandkasten\LinqTutorial\c003_delegateExample\obj\Debug\netcoreapp2.1\c003_delegateExample.csprojAssemblyReference.cache
+C:\c#\sandkasten\LinqTutorial\c003_delegateExample\obj\Debug\netcoreapp2.1\c003_delegateExample.csproj.CoreCompileInputs.cache
+C:\c#\sandkasten\LinqTutorial\c003_delegateExample\obj\Debug\netcoreapp2.1\c003_delegateExample.AssemblyInfoInputs.cache
+C:\c#\sandkasten\LinqTutorial\c003_delegateExample\obj\Debug\netcoreapp2.1\c003_delegateExample.AssemblyInfo.cs
+C:\c#\sandkasten\LinqTutorial\c003_delegateExample\bin\Debug\netcoreapp2.1\c003_delegateExample.deps.json
+C:\c#\sandkasten\LinqTutorial\c003_delegateExample\bin\Debug\netcoreapp2.1\c003_delegateExample.runtimeconfig.json
+C:\c#\sandkasten\LinqTutorial\c003_delegateExample\bin\Debug\netcoreapp2.1\c003_delegateExample.runtimeconfig.dev.json
+C:\c#\sandkasten\LinqTutorial\c003_delegateExample\bin\Debug\netcoreapp2.1\c003_delegateExample.dll
+C:\c#\sandkasten\LinqTutorial\c003_delegateExample\bin\Debug\netcoreapp2.1\c003_delegateExample.pdb
+C:\c#\sandkasten\LinqTutorial\c003_delegateExample\bin\Debug\netcoreapp2.1\c002_loopFindExample.dll
+C:\c#\sandkasten\LinqTutorial\c003_delegateExample\bin\Debug\netcoreapp2.1\c002_loopFindExample.pdb
+C:\c#\sandkasten\LinqTutorial\c003_delegateExample\obj\Debug\netcoreapp2.1\c003_delegateExample.csproj.CopyComplete
+C:\c#\sandkasten\LinqTutorial\c003_delegateExample\obj\Debug\netcoreapp2.1\c003_delegateExample.dll
+C:\c#\sandkasten\LinqTutorial\c003_delegateExample\obj\Debug\netcoreapp2.1\c003_delegateExample.pdb
