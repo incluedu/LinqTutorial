@@ -1,0 +1,6 @@
+C:\c#\sandkasten\LinqTutorial\c005_LinqMethodSyntax\bin\Debug\c005_LinqMethodSyntax.exe
+C:\c#\sandkasten\LinqTutorial\c005_LinqMethodSyntax\bin\Debug\c005_LinqMethodSyntax.pdb
+C:\c#\sandkasten\LinqTutorial\c005_LinqMethodSyntax\obj\Debug\c005_LinqMethodSyntax.csprojAssemblyReference.cache
+C:\c#\sandkasten\LinqTutorial\c005_LinqMethodSyntax\obj\Debug\c005_LinqMethodSyntax.csproj.CoreCompileInputs.cache
+C:\c#\sandkasten\LinqTutorial\c005_LinqMethodSyntax\obj\Debug\c005_LinqMethodSyntax.exe
+C:\c#\sandkasten\LinqTutorial\c005_LinqMethodSyntax\obj\Debug\c005_LinqMethodSyntax.pdb

@@ -1,0 +1,6 @@
+C:\c#\sandkasten\LinqTutorial\c004_LinqQuerySyntaxExample\bin\Debug\c004_LinqQuerySyntaxExample.exe
+C:\c#\sandkasten\LinqTutorial\c004_LinqQuerySyntaxExample\bin\Debug\c004_LinqQuerySyntaxExample.pdb
+C:\c#\sandkasten\LinqTutorial\c004_LinqQuerySyntaxExample\obj\Debug\c004_LinqQuerySyntaxExample.csprojAssemblyReference.cache
+C:\c#\sandkasten\LinqTutorial\c004_LinqQuerySyntaxExample\obj\Debug\c004_LinqQuerySyntaxExample.csproj.CoreCompileInputs.cache
+C:\c#\sandkasten\LinqTutorial\c004_LinqQuerySyntaxExample\obj\Debug\c004_LinqQuerySyntaxExample.exe
+C:\c#\sandkasten\LinqTutorial\c004_LinqQuerySyntaxExample\obj\Debug\c004_LinqQuerySyntaxExample.pdb
